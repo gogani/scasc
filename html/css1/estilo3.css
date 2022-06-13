@@ -1,0 +1,58 @@
+*{
+	margin:5px;
+	padding:5px;
+}
+nav{
+	margin:0;
+	background-color:#FFE190;
+}	
+h1{
+	background-color:#BC5846;
+	height:55px;
+	text-align:center;
+	color:white;
+	
+}
+h3{
+	font-family:Times New Roman;
+	font-size:30px;
+}
+p{
+	font-family:century;
+	font-size:18px;
+}
+#biblio{
+	display:flex;
+}
+#biblio img{
+	height:250px;
+	width:300px;
+}
+section h3{
+	font-family::Times New Roman;
+	font-size:30px;
+}
+section p{
+	font-family:century;
+	font-size:20px;
+}
+ul{
+	font-size:20px;
+}
+aside{
+	margin:0;
+	background-color:#6DBC46;
+}
+section{
+	margin:0;
+	background-color:#46A5BC;
+}
+#vol {
+	display:flex;
+	margin:0;
+	background-color:#46BC9A;
+}
+#vol img{
+	height:150px;
+}
+

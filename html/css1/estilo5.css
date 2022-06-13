@@ -1,0 +1,54 @@
+*{
+	margin:5px;
+	padding:5px;
+}
+h1{
+	background-color:#33841D;
+	color:white;
+	text-align:center;
+}
+#hist img{
+	margin:0;
+	height:500px;
+	width:100%;
+}
+#hist section{
+	font-family:Times New Roman;
+	font-size:25px;
+}
+section p{	
+	color:white;
+	font-size:18px;
+}
+header{
+	background-color:#E67830;
+	color:white;
+	font-size:18px;
+}
+section{
+	background-color:#038F50;
+	color:white;
+	font-size:18px;
+}
+#mod{
+	display:flex;
+	align-items:center;
+}
+#mod ul{
+	margin-right:100px;
+}
+#mod img{	
+	height:150px;
+	width:200px;
+}
+
+nav{
+	background-color:#03848F;
+	color:white;
+	font-size:18px;
+}
+aside{
+	background-color:#D82917;
+	color:white;
+	font-size:18px;
+}

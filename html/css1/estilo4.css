@@ -1,0 +1,27 @@
+*{
+	margin:5px;
+	padding:5px;
+}
+h2{
+	background-color:#17A1CD;
+	color:white;
+	font-size:40px;
+	height:100px;
+}
+p{
+	font-family:century;
+}
+#cont1{
+	display:flex;
+}
+#cont1 img{
+	height:300px;
+	width:500px;
+}
+#cont1 ul{
+	text-align:left;
+}
+section{
+	margin:0;
+	background:coral;
+}
